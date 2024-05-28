@@ -1,4 +1,4 @@
-AOR,CI,down,up,p_val,case_group,control_group,casecount,controlcount,blah
+HR,CI,down,up,p_val,case_group,control_group,casecount,controlcount,blah
 0.19,0.19 (0.08-0.43),0.08,0.43,,"<10 (<1.8%)",35 (6.3%),,,All-cause mortality
 0.46,0.46 (0.37-0.57),0.37,0.57,,127 (22.8%),228 (40.9%),,,Hospitalization
 0.75,0.75 (0.61-0.93),0.61,0.93,,164 (29.4%),192 (34.5%),,,ED visits
