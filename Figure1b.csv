@@ -1,0 +1,8 @@
+AOR,CI,down,up,p_val,case_group,control_group,casecount,controlcount,blah
+0.19,0.19 (0.08-0.43),0.08,0.43,,"<10 (<1.8%)",35 (6.3%),,,All-cause mortality
+0.46,0.46 (0.37-0.57),0.37,0.57,,127 (22.8%),228 (40.9%),,,Hospitalization
+0.75,0.75 (0.61-0.93),0.61,0.93,,164 (29.4%),192 (34.5%),,,ED visits
+0.45,0.45 (0.26-0.79),0.26,0.79,,19 (3.4%),39 (7.0%),,,ICU admission
+,,,,,,,,,Control Outcomes
+1.07,1.07 (0.95-1.20),0.95,1.20,,555 (99.6%),551 (98.9%),,,Overall medical encounters
+1.08,1.08 (0.96-1.22),0.96,1.22,,529 (95.0%),518 (93.0%),,,Outpatient medical encounters
