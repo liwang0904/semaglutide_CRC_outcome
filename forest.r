@@ -47,7 +47,7 @@ forestplot(labeltext=tabletext,
            #is.summary=c(TRUE,TRUE,TRUE,rep(FALSE,4),TRUE,rep(FALSE,4),TRUE,rep(FALSE,4),TRUE,rep(FALSE,4),TRUE,rep(FALSE,4),TRUE,rep(FALSE,4),TRUE,rep(FALSE,4),TRUE,rep(FALSE,4),TRUE,rep(FALSE,10)),
            #is.summary=c(TRUE,TRUE,TRUE,rep(FALSE,2),TRUE,rep(FALSE,2),TRUE,rep(FALSE,2),TRUE,rep(FALSE,2),TRUE,rep(FALSE,2),TRUE,rep(FALSE,2),TRUE,rep(FALSE,2),TRUE,rep(FALSE,2),TRUE,rep(FALSE,10)),
            #is.summary=c(TRUE,rep(FALSE,10)),
-           mean=c(NA,data$AOR), 
+           mean=c(NA,data$HR), 
            lower=c(NA,data$down), upper=c(NA,data$up),
           
            #title ="One-year all-cause mortality and other clinical outcomes in patients with T2DM and CRC\n(comparison between matched semaglutide vs other anti-diabetes medication cohorts)", 
