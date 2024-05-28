@@ -1,10 +1,16 @@
 # Figure1a.csv and Figure1b.csv
 `HR`: Hazard Ratio
+
 `CI`: 95% Confidence Interval
+
 `down`: Lower Bound
+
 `up`: Upper Bound
+
 `case_group`: No. of patients (percent of case cohort)
+
 `control_group`: No. of patients (percent of control cohort)
+
 `blah`: Outcomes
 
 # forest.r
